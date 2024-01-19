@@ -2,7 +2,7 @@
 
 # Project Title
 
-OPTIMIZE HOTEL BUSINESS WITH DATA-DRIVEN INSIGHTS: POWER-BI.
+OPTIMIZE HOTEL BUSINESS WITH DATA-DRIVEN INSIGHTS: Excel 
 
 
 ## Problem Statement
@@ -22,5 +22,5 @@ These insights can be used to optimize revenue and improve customer experience. 
 POWER BI.
 
 
-## Power- Bi Dashboard
-https://drive.google.com/file/d/1UYDCrbzrBZ0vMNUnNvDcg1AbXoiZR-sh/view?usp=sharing
+## Dashboard
+[https://drive.google.com/file/d/1UYDCrbzrBZ0vMNUnNvDcg1AbXoiZR-sh/view?usp=sharing](https://docs.google.com/spreadsheets/d/1XE0NTnLr71stjiLEUGJ0q83V2zrxE695/edit?usp=sharing&ouid=110761244367947102010&rtpof=true&sd=true)https://docs.google.com/spreadsheets/d/1XE0NTnLr71stjiLEUGJ0q83V2zrxE695/edit?usp=sharing&ouid=110761244367947102010&rtpof=true&sd=true
